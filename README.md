@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naveennaveen123
+- 👀 I’m interested in Problem Solving and Web Development 
+- 🌱 I’m currently learning BE/CSE
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : arnaveen2002@gmail.com
